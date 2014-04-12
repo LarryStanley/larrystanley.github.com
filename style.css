@@ -1,3 +1,17 @@
-body {
-    background-color: #d35400;
+html,body {
+    background-color: #34495e;
+    color: white;
+    height: 100%;
+    width: 100%;
+}
+
+.centerText {
+    position: absolute;
+    height: 200px;
+    width: 400px;
+    top: 50%;
+    left: 50%;
+    margin-top: -100px;
+    margin-left: -200px;
+    text-align: center;
 }
